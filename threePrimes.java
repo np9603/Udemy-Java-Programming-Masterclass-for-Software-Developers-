@@ -1,4 +1,4 @@
-public class threePrimes {
+public class ThreePrimes {
     public static boolean isPrime(int number){
         if(number==1)
             return false;
